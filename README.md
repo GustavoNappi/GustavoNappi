@@ -16,7 +16,7 @@
 
 ##
 <div>
-<img a href = "" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img a href = "https://www.linkedin.com/in/gustavo-souza-nappi-a4912b22b/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   
 </div>
 
