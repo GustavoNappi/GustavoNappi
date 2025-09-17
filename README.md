@@ -7,7 +7,8 @@ Currently exploring React, Next.js, and TypeScript.
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavonappi&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavonappi&show_icons=true&theme=dark&count_private=true&hide_border=true&token=SEU_TOKEN_AQUI"/>
+
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonappi&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
 </div>
 ---
