@@ -3,14 +3,13 @@
 Front-End Developer passionate about creating efficient and scalable applications.  
 Currently exploring React, Next.js, and TypeScript.
 
----
 
 ### 📊 GitHub Stats  
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavonappi&show_icons=true&theme=dark&count_private=true&hide_border=true&token=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"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonappi&layout=compact&theme=dark&hide_border=true"/>
 </div>
----
+
 
 ### 🛠️ Tech Stack  
 <div style="display: inline-block"><br>
